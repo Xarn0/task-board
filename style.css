@@ -287,7 +287,7 @@ body {
 	font-size: 16px;
 	overflow: hidden;
 	cursor: pointer;
-	max-height: 35px;
+	min-height: 35px;
 	transition: 1s overflow ease-in-out, 1s max-height ease-in-out;
 	-webkit-transition: 1s overflow ease-in-out, 1s max-height ease-in-out;
 	-moz-transition: 1s overflow ease-in-out, 1s max-height ease-in-out;
